@@ -30,7 +30,7 @@
 <body style="background-image: url('https://assets.onecompiler.app/42zp5pya9/43bnucmtv/4531803.jpg'); background-size: cover;">
   <div class="container">
     <h1 style="color:white">Welcome to Imaginative Imprint Website</h1>
-    <pstyle="color:white">This website is a personal portfolio showcasing my skills and experiences.</p>
+    <p style="color:white">This website is a personal portfolio showcasing my skills and experiences.</p><br>
     <button class="button" onclick="window.location.href='index.html'">Enter Website</button>
   </div>
 </body>
