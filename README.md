@@ -31,7 +31,7 @@
   <div class="container">
     <h1 style="color:white">Welcome to Imaginative Imprint Website</h1>
     <p style="color:white">This website is a personal portfolio showcasing my skills and experiences.</p><br>
-    <button class="button" onclick="window.location.href='index.html'">Enter Website</button>
+    <button class="button" onclick="window.location.href='https://imaginativeimprint.github.io/My-website-/'">Enter Website</button>
   </div>
 </body>
 </html>
