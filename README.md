@@ -29,7 +29,7 @@
     }
   </style>
 </head>
-<body style="background-image: url('https://assets.onecompiler.app/42zp5pya9/43bnucmtv/4531803.jpg'); background-size: cover;">
+<body style="background-image: url('https://assets.onecompiler.app/42zp5pya9/43bjn4kvr/1812589.jpg'); background-size: cover;">
   <div class="container">
     <h1 style="color:white">Welcome to Imaginative Imprint Website</h1>
     <p style="color:white">This website is a personal portfolio showcasing my skills and experiences.</p><br>
