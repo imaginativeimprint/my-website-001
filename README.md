@@ -1,6 +1,3 @@
-#website_created_in_github
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
